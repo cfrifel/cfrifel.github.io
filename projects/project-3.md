@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: images/huffman_code.png
+image: images/Huffman_code.png
 title: Huffman Code
 permalink: projects/cotton
 date: 2016
@@ -11,7 +11,7 @@ labels:
 summary: A text file compressor and decompressor I made for my algorithms (EE 367) assignment.
 ---
 
-<img class="ui image" src="{{ site.baseurl }}/images/huffman_code.png">
+<img class="ui image" src="{{ site.baseurl }}/images/Huffman_code.png">
 
 
 
