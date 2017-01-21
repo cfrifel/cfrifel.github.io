@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: images/mousepic.jpg
+image: images/mousepic.png
 title: Micromouse
 permalink: projects/micromouse
 date: 2015
@@ -11,7 +11,7 @@ labels:
 summary: My team developed a robotic mouse that completed the maze in the 2015 UH Micromouse competition.
 ---
 
-<div class="ui small rounded images">
+<div class="ui medium rounded images">
   <img class="ui image" src="../images/maze.jpg">
 </div>
 
