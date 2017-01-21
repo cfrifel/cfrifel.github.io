@@ -1,15 +1,15 @@
 ---
 layout: essay
 type: essay
-title: Smart Questions, Good Answers
-date: 2015-09-08
+title: Reflection on Javascript
+date: 2017-01-20
 labels:
-  - Questions
-  - Answers
-  - StackOverflow
+  - Javascript
+  - C
+  - Learning
+  - Athletic Programming
 ---
 
-<img class="ui medium left floated image" src="../images/rtfm.png">
 
 The first programming language I learned was C.  Its not everyone's favorite language, but over the years I have become quite good at using C.  Although I have used other languages such as MatLab and Java for specific classes, I keep coming back to C for its barebones simplicity.  Once you get the hang of exactly how precise C requires you to be, C turns out to be very intuitive and straightforward. 
 
