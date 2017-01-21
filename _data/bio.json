@@ -4,13 +4,13 @@
     "label": "Student",
     "picture": "https://cfrifel.github.io/images/me.jpg",
     "email": "cfrifel@hawaii.edu",
-    "phone": "808-453-0567",
+    "phone": "Upon request",
     "website": "https://cfrifel.github.io",
-    "summary": "I am studying for a B.S. in Computer Engineering in the Department of Information and Computer Sciences at the University of Hawaii. I expect to graduate in Spring, 2018.",
+    "summary": "I am studying for a B.S. in Computer Engineering in the Department of Engineering at the University of Hawaii. I expect to graduate in Spring, 2017.",
     "location": {
-      "address": "",
-      "postalCode": "96822",
-      "city": "Honolulu",
+      "address": "95-1029 Kihene Street",
+      "postalCode": "96789",
+      "city": "Mililani",
       "countryCode": "USA",
       "region": "Hawaii"
     },
@@ -18,29 +18,29 @@
       {
         "network": "github",
         "username": "cfrifel",
-        "url": "http://github.com/changeme"
+        "url": "http://github.com/cfrifel"
       },
       {
         "network": "linkedin",
-        "username": "mollymaluhia",
-        "url": "http://linkedin.com/in/changeme"
+        "username": "cfrifel",
+        "url": "http://linkedin.com/in/cfrifel"
       },
     ]
   },
   "interests": [
     {
-      "name": "internet of things",
+      "name": "Robotics",
       "keywords": [
-        "Arduino",
+        "",
       ]
     },
     {
-      "name": "data mining",
+      "name": "Data Visualization",
       "keywords": [
       ]
     },
     {
-      "name": "artificial intelligence",
+      "name": "Internet of Things",
       "keywords": [
       ]
     }
