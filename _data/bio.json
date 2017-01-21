@@ -6,7 +6,7 @@
     "email": "cfrifel@hawaii.edu",
     "phone": "808-453-0567",
     "website": "https://cfrifel.github.io",
-    "summary": "I am studying for a B.S. in Computer Science in the Department of Information and Computer Sciences at the University of Hawaii. I expect to graduate in Spring, 2018.",
+    "summary": "I am studying for a B.S. in Computer Engineering in the Department of Information and Computer Sciences at the University of Hawaii. I expect to graduate in Spring, 2018.",
     "location": {
       "address": "",
       "postalCode": "96822",
@@ -25,16 +25,6 @@
         "username": "mollymaluhia",
         "url": "http://linkedin.com/in/changeme"
       },
-      {
-        "network": "twitter",
-        "username": "mollymal",
-        "url": "http://twitter.com/changeme"
-      },
-      {
-        "network": "instagram",
-        "username": "molly",
-        "url": "http://instagram.com/changeme"
-      }
     ]
   },
   "interests": [
@@ -42,7 +32,6 @@
       "name": "internet of things",
       "keywords": [
         "Arduino",
-        "TI MSP430"
       ]
     },
     {
@@ -66,7 +55,6 @@
         "Java",
         "Javascript",
         "Assembly",
-        "Common Lisp"
       ]
     },
     {
@@ -76,20 +64,21 @@
         "MacOS",
         "Ubuntu",
         "Git/GitHub",
-        "g++",
-        "TI LaunchPad"
+        "gcc/g++",
+        "Arduino"
       ]
     }
   ],
   "education": [
     {
       "institution": "University of Hawaii, Honolulu, HI",
-      "area": "Computer Science (expected Spring, 2018)",
+      "area": "Computer Engineering (expected Spring, 2018)",
       "studyType": "B.S.",
-      "startDate": "2013-09-01",
+      "startDate": "Fall 2013",
       "endDate": "Present",
-      "gpa": "",
+      "gpa": "3.24",
       "courses": [
+        "
       ]
     }
   ],
