@@ -11,7 +11,7 @@ labels:
 summary: A way to study the spread of infectious disease propagation throughout a hospital.
 ---
 
-<img class="ui medium right floated rounded image" src="../images/hospital.png">
+<img class="ui medium middle floated square image" src="../images/hospital.jpeg">
 
 Project Description
 
