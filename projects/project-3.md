@@ -23,5 +23,5 @@ summary: A text file compressor and decompressor I made for my algorithms (EE 36
 
 <hr>
 
-Source: <a href="https://github.com/cfrifel/Huffman_code"><i class="large github icon "></i>Huffman Code: </a>
+Source: <a href="https://github.com/cfrifel/Huffman_code"><i class="large github icon "></i>Huffman Code</a>
 
