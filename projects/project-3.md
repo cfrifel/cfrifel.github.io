@@ -11,7 +11,7 @@ labels:
 summary: A text file compressor and decompressor I made for my algorithms (EE 367) assignment.
 ---
 
-<img class="ui medium right floated square image" src="../images/Huffman_code.png">
+<img class="ui small right floated square image" src="../images/Huffman_code.png">
 
 
 
