@@ -71,9 +71,9 @@
   "education": [
     {
       "institution": "University of Hawaii, Honolulu, HI",
-      "area": "Computer Engineering (expected Spring, 2018)",
+      "area": "Computer Engineering (expected Spring, 2017)",
       "studyType": "B.S.",
-      "startDate": "Fall 2013",
+      "startDate": "2013",
       "endDate": "Present",
       "gpa": "3.24",
       "courses": [
@@ -93,9 +93,9 @@
       "company": "Pearl Harbor Naval Shipyard",
       "position": "General Engineer",
       "website": "http://www.navsea.navy.mil/Home/Shipyards/PHNS-IMF/",
-      "startDate": "Summer 2015",
+      "startDate": "2015",
       "endDate": "Present",
-      "summary": "Support maintenance on nuclear submarines.",
+      "summary": "    Support maintenance on nuclear submarines.",
       "highlights": [
       ]
     },
@@ -103,9 +103,9 @@
       "company": "Stan Sheriff Center",
       "position": "Usher and Ticket Scanner",
       "website": "http://hawaiiathletics.com/sports/2008/5/14/stan_sheriff_center.aspx",
-      "startDate": "Fall 2014",
-      "endDate": "Spring 2015",
-      "summary": "Promote a friendly venue at local sporting events.",
+      "startDate": "2014",
+      "endDate": "2015",
+      "summary": "    Promote a friendly venue at local sporting events.",
       "highlights": [
         
       ]
@@ -116,25 +116,25 @@
       "organization": "Robotics Alumni Volunteering Team",
       "website": "http://manoa.hawaii.edu/reis",
       "position": "Volunteer",
-      "startDate": "Fall 2016",
+      "startDate": "2016",
       "endDate": "Present",
-      "summary": "Volunteer at local robotics events",
+      "summary": "    Volunteer at local robotics events.",
       "highlights": [
       ]
     }
   ],
   "awards": [
     {
-      "title": "Centenial Scholarship",
+      "title": "Centennial Scholarship",
       "date": "2013-Present",
       "awarder": "State of Hawaii",
-      "summary": "Scholarships awarded to incoming freshmen who complete a rigorous high school curriculum with a minimum overall GPA of 3.0 at a Hawai'i public school."
+      "summary": "    Scholarships awarded to incoming freshmen who completed high school with a minimum unweighted GPA of 3.80."
     },
     {
       "title": "VEX Robotics World Championship Finalist",
       "date": "August 2012",
       "awarder": "Vex Robotics",
-      "summary": "My team (1973D) won second place at the 2012 VEX World Championship."
+      "summary": "    My team (1973D) won second place at the 2012 VEX World Championship."
     }
   ],
   "references": [
