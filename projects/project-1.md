@@ -12,7 +12,7 @@ summary: My team developed a robotic mouse that completed the maze in the 2015 U
 ---
 
 <div class="ui small rounded images">
-  <img class="ui image" src="../images/.png">
+  <img class="ui image" src="../images/maze.jpg">
 </div>
 
 Overview
