@@ -11,8 +11,9 @@ labels:
 summary: A text file compressor and decompressor I made for my algorithms (EE 367) assignment.
 ---
 
-<img class="ui medium middle floated square image" src="../images/Huffman_code.png">
-
+<div class="ui medium rounded images">
+  <img class="ui image" src="../images/Huffman_code.png">
+</div>
 
 
 What is a Huffman code
