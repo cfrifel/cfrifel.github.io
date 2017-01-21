@@ -1,24 +1,25 @@
 ---
 layout: project
 type: project
-image: images/vacay-square.png
-title: Vacay
+image: images/netlogo.png
+title: Stochastic Simulation of Disease Propagation
 permalink: projects/vacay
-date: 2015
+date: 2016
 labels:
-  - Javascript
-  - Meteor
-  - MongoDB
-  - GitHub
-summary: A responsive web application for travel planning that my team developed in ICS 415.
+  - Netlogo
+  - Data Visualization
+summary: A way to study the spread of infectious disease propagation throughout a hospital.
 ---
 
-<img class="ui medium right floated rounded image" src="../images/vacay-home-page.png">
+<img class="ui medium right floated rounded image" src="../images/hospital.png">
 
-Vacay is a web application that I helped create as a team project in ICS 415, Spring 2015. The project helped me learn how to design and implement a responsive web site.
+Project Description
 
-Vacay is implemented using [Meteor](http://meteor.com), a JavaScript application platform. Within two weeks, we created a website that implements several types of reservations including flights, hotels, and car rentals.
+For my Senior Project (EE 496), I will be creating a Netlogo simulation of people occupying a hospital setting.  My goal with this project is to better understand the motions of nurses, patients, and visitors within a hospital setting in hopes to quantify the spread of infectious diseases between them.  After I make a complete simulation of a time period within the simulation, I plan to insert a transfrer function that will allow people in the simulation to contract and spread a Hospital Associated Infection (HAI) to others based on proximity and exposure time.
 
-In this project I gained experience with full-stack web application design and associated technologies, including [MongoDB](http://mongodb.com) for database storage, the [Twitter Bootstrap](http://getbootstrap.com/) CSS Framework for the user interface, and Javascript for both client and server-side programming. 
- 
-Source: <a href="https://github.com/theVacay/vacay"><i class="large github icon"></i>theVacay/vacay</a>
+Motivation
+
+HAIs are diseases contracted by patients while under medical care.  Sadly, there is no technology right now that allows doctors/nurses to study the spread of HAIs in a hospital setting in real-time.  The best available technology to them is on a day to day resolution.  I hope to create a simulation that closly matches the events of a real hospital to shed some light on how HAIs spread on a smaller time resolution.
+
+
+I will be making a github page with my Netlogo simulation soon.  It is currently under construction.
