@@ -11,7 +11,7 @@ labels:
 summary: A text file compressor and decompressor I made for my algorithms (EE 367) assignment.
 ---
 
-<img class="ui small right floated square image" src="../images/Huffman_code.png">
+<img class="ui medium middle floated square image" src="../images/Huffman_code.png">
 
 What is a Huffman code
 A Huffman code is a data compression code used to reduce the storage footprint of data files.  After compression, the code can later be used to decompress the file into its original form.  These compression/decompression techniques are useful anywhere there is a need to compress repetative data files.  You may have already used tools which utilize Huffman code such as .jpeg and .png files.
