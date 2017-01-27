@@ -22,7 +22,7 @@ Here is an example of a bad question.  This question can be found on Stack Overf
 <div class="ui large rounded images">
   <img class="ui image" src="../images/bad_question.JPG">
 </div>
-Lightly put, this question is bad.  What makes this a bad question is that it lacks specifically that, a question.  Nowhere in the post is there a specific question to be answered.  Instead, the asker puts forth their source code and states that they are having trouble with gettin it to work.  From the perspective of a person answering this post, there is also no insight as to what the asker wanted the code to do in detail.
+Lightly put, this question is bad.  What makes this a bad question is that it lacks specifically that, a question.  Nowhere in the post is there a specific question to be answered.  Instead, the asker puts forth their source code and states that they are having trouble with getting it to work.  From the perspective of a person answering this post, there is also no insight as to what the asker wanted the code to do in detail.
 
 Here is an example of a good question.   This question can be found on Stack Overflow [here](http://stackoverflow.com/questions/1704407/what-is-the-difference-between-char-s-and-char-s-in-c).
 <div class="ui large rounded images">
