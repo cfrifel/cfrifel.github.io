@@ -8,7 +8,7 @@ labels:
 ---
 
 ## So Many Questions!
-As a computer engineer, there is no shortage of questions that I have relating to my coursework.  Many of my questions can be answered by searching Google or consulting the textbook.  Easier questions like "why does my code not print out X" can even be answered by simply reviewing the task at hand with a fresh eye.  However, some questions are more difficult and lead me to seek help from my friends and my professor.  Often times these more difficult questions are shared amongst my classmates and by asking them leads to collaboration.
+As a computer engineer, there are no shortage of questions that I have relating to my coursework.  Many of my questions can be answered by searching Google or consulting the textbook.  Easier questions like "why does my code not print out X" can even be answered by simply reviewing the task at hand with a fresh eye.  However, some questions are more difficult and lead me to seek help from my friends and my professor.  Often times these more difficult questions are shared amongst my classmates and by asking them leads to collaboration.
 
 When asking questions to my classmates or to my professor, I want to have a clear understanding of my problem so that I can explain my problem concisely.  I also want to have an explaination prepared of what I have looked into to answer my own question.  In general, I want to show that I am competent of my own problem and am ready to receive help from whoever I am asking.
 
