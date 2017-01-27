@@ -25,3 +25,10 @@ Here is an example of a bad question.  This question can be found on Stack Overf
 Lightly put, this question is bad.  What makes this a bad question is that it lacks specifically that, a question.  Nowhere in the post is there a specific question to be answered.  Instead, the asker puts forth their source code and states that they are having trouble with gettin it to work.  From the perspective of a person answering this post, there is also no insight as to what the asker wanted the code to do in detail.
 
 Here is an example of a good question.   This question can be found on Stack Overflow [here](http://stackoverflow.com/questions/1704407/what-is-the-difference-between-char-s-and-char-s-in-c).
+<div class="ui medium rounded images">
+  <img class="ui image" src="../images/good_question.JPG">
+</div>
+This is an example of a good question.  Dispite being short, question being asked is simple and straightforward.  By providing snippets of code, the asker can illustrate exactly what their question referring to.  By explaining that he would like to more about how the two lines of code differ in terms of memory management, it makes answering the question worthwhile and straightforward.
+
+## Good Questions make Good Engineers
+As engineers, we owe it to ourselves to ask each other good questions.  When we ask good questions, we can get meaningful answers in return that can lead to engaging conversation.  If you want to read more about the differences between good and bad questions, I highly recommend giving Eric Steven Raymond's [article](http://www.catb.org/esr/faqs/smart-questions.html#explicit) on "How To Ask Questions The Smart Way" a read.
