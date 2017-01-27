@@ -18,8 +18,8 @@ These preparations that I take help me ask better questions and allow me to rece
 ## Stack Overflow: Programming Questions
 Stack Overflow is a website where people can ask questions and receive help on programming topics.  These questions are answered by skilled programmers who volunteer their time in giving insight to questions for everyone to see.  Stack Overflow tends to be filled with unanswered questions resulting in people being selective in which questions they respond to.  While the majority of questions on Stack Overflow are good questions, there are bad ones that get an appropriate amount of internet flame.
 
-Here is an example of a bad question.  This question can be found on Stack Overflow here
-http://stackoverflow.com/questions/41753315/how-to-create-a-file-in-c
-Lightly put, this question is bad.  What makes this a bad question is that it lacks specifically that, a question.  Nowhere in the post is there a specific question to be answered.  Instead, the asker puts forth their source code and states that they are having trouble with gettin it to work.  From the perspective of a person answering this post, there is also no insight as to what the asker wanted the code to do in detail.
+Here is an example of a bad question.  This question can be found on Stack Overflow [here](http://stackoverflow.com/questions/41753315/how-to-create-a-file-in-c).
+
+    Lightly put, this question is bad.  What makes this a bad question is that it lacks specifically that, a question.  Nowhere in the post is there a specific question to be answered.  Instead, the asker puts forth their source code and states that they are having trouble with gettin it to work.  From the perspective of a person answering this post, there is also no insight as to what the asker wanted the code to do in detail.
 
 Here is an example of a good question.   This question can be found on Stack Overflow here.
