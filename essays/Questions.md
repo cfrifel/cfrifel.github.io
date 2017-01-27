@@ -20,7 +20,7 @@ Stack Overflow is a website where people can ask questions and receive help on p
 
 Here is an example of a bad question.  This question can be found on Stack Overflow [here](http://stackoverflow.com/questions/41753315/how-to-create-a-file-in-c).
 <div class="ui medium rounded images">
-  <img class="ui image" src="../images/bad_question.jpg">
+  <img class="ui image" src="../images/bad_question.JPG">
 </div>
 Lightly put, this question is bad.  What makes this a bad question is that it lacks specifically that, a question.  Nowhere in the post is there a specific question to be answered.  Instead, the asker puts forth their source code and states that they are having trouble with gettin it to work.  From the perspective of a person answering this post, there is also no insight as to what the asker wanted the code to do in detail.
 
