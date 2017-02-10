@@ -9,7 +9,7 @@ labels:
 ---
 
 ## How We Learn
-I learned at a young age, like everyone else, how to translate my thoughts into speech and written language.  But how did I learn to do such a thing?  As much as I can ascertain, no one can reach into my consciousness and help me articulate what I am thinking into words.  The answer is really quite simple.  I copied the writing style and speech patterns of books and people around me until I could do it on my own.  Through practice and a healthy amount of plagiarism, I began to develop my own writing style and, more importantly, how I should organize my own thoughts.
+I learned at a young age how to translate my thoughts into speech and written language.  But how did I learn to do such a thing?  As much as I can ascertain, no one can reach into my consciousness and help me articulate what I am thinking into words.  The answer is really quite simple.  I copied the writing style and speech patterns of books and people around me until I could do it on my own.  Through practice and a healthy amount of plagiarism, I began to develop my own writing style and, more importantly, how I should organize my own thoughts.
 
 Spoiler alert, this is how everyone learns how to read and write.
 
