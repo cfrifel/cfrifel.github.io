@@ -26,9 +26,9 @@ In nearly all cases, coding is a well-defined, mechanical process that necessita
 An algorithm is effective in comparison to other solutions when it can achieve the desired result with less memory demands and/or within a shorter time frame.  Take for example a simple problem that requires the sorting of one million elements.  While using bubble sort can achieve the same result as merge sort or quick sort, the result can be achieved much faster by using the latter algorithms.
 
 ## The Verdict
-Everyone should learn how to code by closely adhering to established coding standards.  It's one of those things that you can learn correctly the first time and never need to re-learn.  It will be natural for you to code in that way, and changing your coding style to different coding standard can be done smoothly.
+Everyone should learn how to code by closely adhering to established coding standards.  It's one of those things that you can learn correctly the first time and never need to re-learn.  The coding standard will be your natural, default programming style.  If you ever need to update or change your style, doing so can be done smoothly and should be minimal.
 
-Having already learned C with no adherence to a coding style, I admit my code can get a bit messy.  From now on I intend to stick to one style of coding to be consistent with my own work and to practice writing presentable code.
+Having already learned C with no adherence to a coding style, I admit my code can get a bit messy and inconsistent.  From now on I intend to stick to one style of coding to be consistent with my own work and to practice writing presentable code.
 
 
 
