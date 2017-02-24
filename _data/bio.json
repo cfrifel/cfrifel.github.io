@@ -46,34 +46,43 @@
   ],
   "skills": [
     {
-      "name": "Languages and Frameworks",
+      "name": "Proficient",
       "level": "",
       "keywords": [
         "C",
-        "C++",
-        "Java",
         "Javascript",
-        "Assembly",
+        "HTML",
+        "CSS",
+        "Python",
+        "Linux",
+        "Bash",
+        "Git/GitHub",
+        "Eagle",
+        "NetLogo",
       ]
     },
     {
-      "name": "Toolsets/OS",
+      "name": "Experience",
       "level": "",
       "keywords": [
-        "MacOS",
-        "Ubuntu",
-        "Git/GitHub",
-        "gcc/g++",
-        "Arduino"
+        "C++",
+        "Java",
+        "SQL",
+        "TCP/IP",
+        "Matlab",
+        "VHDL",
+        "Verilog",
+        "Arduino",
+        "Raspberry Pi"
       ]
     }
   ],
   "education": [
     {
       "institution": "University of Hawaii, Honolulu, HI",
-      "area": "Computer Engineering (expected Spring, 2017)",
+      "area": "Computer Engineering (expected May 2017)",
       "studyType": "B.S.",
-      "startDate": "2013",
+      "startDate": "August 2013",
       "endDate": "Present",
       "gpa": "3.24",
       "courses": [
@@ -90,24 +99,28 @@
   ],
   "work": [
     {
-      "company": "Pearl Harbor Naval Shipyard",
-      "position": "General Engineer",
+      "company": "Pearl Harbor Naval Shipyard and IMF",
+      "position": "Nuclear Engineering Intern",
       "website": "http://www.navsea.navy.mil/Home/Shipyards/PHNS-IMF/",
-      "startDate": "2015",
+      "startDate": "May 2015",
       "endDate": "Present",
-      "summary": "    Support maintenance on nuclear submarines.",
+      "summary": "Work with a project team to support maintenance on a nuclear submarine",
       "highlights": [
+        "Perform system checks and audits to ensure plant readiness for upcoming procedures",
+        "Read nuclear plant manuals and test instructions to show proficiency through discussion",
+        "Generate training briefing packages used to instruct ships force for upcoming procedures"
       ]
     },
     {
       "company": "Stan Sheriff Center",
       "position": "Usher and Ticket Scanner",
       "website": "http://hawaiiathletics.com/sports/2008/5/14/stan_sheriff_center.aspx",
-      "startDate": "2014",
-      "endDate": "2015",
-      "summary": "    Promote a friendly venue at local sporting events.",
+      "startDate": "August 2014",
+      "endDate": "May 2015",
+      "summary": "Promote a friendly venue at local sporting events.",
       "highlights": [
-        
+        "Ensure safety for spectators and athletes by enforcing an established code of conduct",
+        "Attend to customer complaints with friendly customer service"
       ]
     }
   ],
@@ -116,25 +129,31 @@
       "organization": "Robotics Alumni Volunteering Team",
       "website": "http://manoa.hawaii.edu/reis",
       "position": "Volunteer",
-      "startDate": "2016",
+      "startDate": "September 2016",
       "endDate": "Present",
-      "summary": "    Volunteer at local robotics events.",
+      "summary": "Volunteer at local robotics events.",
       "highlights": [
       ]
     }
   ],
   "awards": [
+    {      
+      "title": "Dean's List",      
+      "date": "Spring 2016, Fall 2016",     
+      "awarder": "University of Hawaii at Manoa",      
+      "summary": "Awarded to students who receive a GPA of 3.5 or higher based on 12 or more graded credits"
+    },
     {
       "title": "Centennial Scholarship",
       "date": "2013-Present",
-      "awarder": "State of Hawaii",
+      "awarder": "University of Hawaii at Manoa",
       "summary": "    Scholarships awarded to incoming freshmen who completed high school with a minimum unweighted GPA of 3.80."
     },
     {
       "title": "VEX Robotics World Championship Finalist",
-      "date": "August 2012",
+      "date": "April 2012",
       "awarder": "Vex Robotics",
-      "summary": "    My team (1973D) won second place at the 2012 VEX World Championship."
+      "summary": "My team (1973D) won second place at the 2012 VEX World Championship."
     }
   ],
   "references": [
