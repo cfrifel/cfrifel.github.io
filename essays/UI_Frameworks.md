@@ -9,14 +9,12 @@ labels:
 ---
 
 ## Learning About Libraries
-<div class="ui segment">
-<img class="ui large left floated image" src="../images/helloworld_in_c.jpg">
+<img class="ui massive left floated image" src="../images/helloworld_in_c.jpg">
 <p>Back in freshman year of college, I learned how to program in C through enrolling in my first engineering class.  Learning C involved a lot of copying what my instructor did and searching Google for additional examples.  Being the naive programmer I was, I often didn't care to understand how each line of code fit in to my program to make it work.  In particular, I had no idea what #include stdio.h did.  I saw it in my professor's code, so I simply copied it and everything seemed to work the way I expected it to.  It wasn't until later in the course, when I omitted the library, that I realized that including stdio.h allowed me to use commands like printf() and scanf().
 </p>
 <p>
 After this correction, I understood that including various libraries at the top of my code can allow me to use functions in the current file that were defined elsewhere.  I also figured out that not only could I include header files in which I created, but that there are pre-made libraries such as string.h that make coding in C much less tedious.  C is already a tedious language as it is, there was no need to make it any harder on myself to define functions that were already defined in a library I could #include.
 </p>
-</div>
 
 ## Deja Vu
 Fast forward to my senior year in college where I am learning HTML/CSS for website development, and I feel like I'm having deja vu.  While they are awesome programming languages for creating custom and responsive websites, I feel that it's unnecessarily tedious and time consuming to make things look nice.  What if there was something that simplified web development and made it easy to create a pleasant website without the hassle of losing hours to customization enhancements.  Something similar to how a pre-made library made finding the length of a string in C as simple as calling the strlen() function.
