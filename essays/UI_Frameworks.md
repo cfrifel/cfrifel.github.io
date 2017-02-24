@@ -2,7 +2,7 @@
 layout: essay
 type: essay
 title: UI Frameworks Just Work
-date: 2017-02-02
+date: 2017-02-23
 labels:
   - UI Frameworks
   - Semantic UI
