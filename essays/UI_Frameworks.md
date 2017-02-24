@@ -9,7 +9,7 @@ labels:
 ---
 
 ## Learning About Libraries
-<img class="ui massive left floated image" src="../images/helloworld_in_c.jpg">
+<img class="ui medium left floated image" src="../images/helloworld_in_c.jpg">
 Back in freshman year of college, I learned how to program in C through enrolling in my first engineering class.  Learning C involved a lot of copying what my instructor did and searching Google for additional examples.  Being the naive programmer I was, I often didn't care to understand how each line of code fit in to my program to make it work.  In particular, I had no idea what #include stdio.h did.  I saw it in my professor's code, so I simply copied it and everything seemed to work the way I expected it to.  It wasn't until later in the course, when I omitted the library, that I realized that including stdio.h allowed me to use commands like printf() and scanf().
 
 
