@@ -34,21 +34,18 @@
       ]
     }
   ],
-  "skills": [
+   "skills": [
     {
-      "name": "Proficient: ",
+      "name": "Languages and Frameworks",
       "level": "",
       "keywords": [
-        "C",
         "JavaScript",
-        "Python",
-        "TCP/IP"
+        "Java",
+        "C++",
         "HTML",
         "CSS",
-        "Linux",
-        "Bash",
-        "Eagle",
-        "Netlogo"
+        "PHP",
+        "SQL"
       ]
     },
     {
