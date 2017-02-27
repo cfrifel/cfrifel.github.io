@@ -107,28 +107,29 @@
       ]
     },
      {
-      "company": "Disease Propagation Simulation Project",
-      "position": "",
+      "company": "Disease Propagation Simulation",
+      "position": "Senior Project",
       "website": "",
       "startDate": "2017",
       "endDate": "Present",
       "summary": "",
       "highlights": [
-        "",
-        ""
+        "Design an agent-based computer simulation of disease propagation in a hospital setting",
+        "Program a movement script in NetLogo to match the activities of nurses working in an Intensive Care Unit",
+        "Implement a SIR model to track the infection state of agents in the simulation",
       ]
     },
      {
-      "company": "Hawaii Department of Education",
-      "position": "STEM Resource Mentor",
-      "website": "http://www.hawaiipublicschools.org",
-      "startDate": "2014-09-16",
-      "endDate": "Present",
-      "summary": "Computer Science and STEM Mentor under Bebi Davis, PhD of the Kaimuki-McKinley-Roosevelt Complex Area",
+      "company": "MicroMouse",
+      "position": "Junior Project",
+      "website": "",
+      "startDate": "2015",
+      "endDate": "2016",
+      "summary": "",
       "highlights": [
-        "Collaborated with 28 schools to develop a 21st-century STEM curriculum which sparked a 48% STEM interest among Hawaii high school students.",
-        "Mentored students in the Honolulu District and Hawaii State Science and Engineer Fair that totalled $15,000+ in awards from Chevron, IEEE, Intel and more.",
-        "Connected high school students with external mentors at the John A. Burns School of Medicine for research-based internships."
+        "Build and program an autonomous robot to find the center of a maze",
+        "Hardware: Construction of physical electric circuits through soldering and using PCBs",
+        "Software: Embedded systems software design, developed a basic control system to prevent collisions"
       ]
     }
   ],
