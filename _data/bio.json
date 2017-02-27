@@ -14,7 +14,7 @@
       "countryCode": "USA",
       "region": "Hawaii"
     },
-    "Profiles": [
+    "profiles": [
       {
         "network": "github",
         "username": "cfrifel",
@@ -27,7 +27,7 @@
       },
     ]
   },
-  "Interests": [
+  "interests": [
     {
       "name": "Robotics",
       "keywords": [
@@ -44,7 +44,7 @@
       ]
     }
   ],
-  "Skills": [
+  "skills": [
     {
       "name": "Proficient",
       "level": "",
@@ -97,8 +97,9 @@
       "website": "http://www.navsea.navy.mil/Home/Shipyards/PHNS-IMF/",
       "startDate": "2015",
       "endDate": "Present",
-      "summary": "Work with a project team to support maintenance on a nuclear submarine",
+      "summary": 
       "highlights": [
+        "Work with a project team to support maintenance on a nuclear submarine",
         "Perform system checks and audits to ensure plant readiness for upcoming procedures",
         "Read nuclear plant manuals and test instructions to show proficiency through discussion",
         "Generate training briefing packages used to instruct ships force for upcoming procedures"
@@ -108,9 +109,9 @@
       "company": "Stan Sheriff Center",
       "position": "Usher and Ticket Scanner",
       "website": "http://hawaiiathletics.com/sports/2008/5/14/stan_sheriff_center.aspx",
-      "startDate": "8/23/14",
-      "endDate": "5/16/15",
-      "summary": "Promote a friendly venue at local sporting events.",
+      "startDate": "2014",
+      "endDate": "2015",
+      "summary": 
       "highlights": [
         "Ensure safety for spectators and athletes by enforcing an established code of conduct",
         "Attend to customer complaints with friendly customer service"
