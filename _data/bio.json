@@ -14,32 +14,22 @@
       "countryCode": "USA",
       "region": "Hawaii"
     },
-    "profiles": [
+   "profiles": [
       {
         "network": "github",
-        "username": "cfrifel",
-        "url": "http://github.com/cfrifel"
+        "username": "chrisnguyenhi",
+        "url": "http://github.com/chrisnguyenhi"
       },
       {
         "network": "linkedin",
-        "username": "curtisfrifeldt",
-        "url": "http://linkedin.com/in/curtisfrifeldt"
-      },
+        "username": "chrisnguyenhi",
+        "url": "http://linkedin.com/in/chrisnguyenhi"
+      }  
     ]
   },
   "interests": [
     {
-      "name": "Robotics",
-      "keywords": [
-      ]
-    },
-    {
-      "name": "Data Visualization",
-      "keywords": [
-      ]
-    },
-    {
-      "name": "Internet of Things",
+      "name": "Software Development, Project Management, and Education",
       "keywords": [
       ]
     }
