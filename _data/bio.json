@@ -175,7 +175,10 @@
       "title": "Dean's List",
       "date": "",
       "awarder": "University of Hawaii at Manoa",
-      "summary": "Academic honor given to students with a 3.5 GPA or above. Semesters Received: Spring 2016, Fall 2016"
+      "summary": [
+        "Academic honor given to students with a 3.5 GPA or above",
+        "Semesters Received: Spring 2016, Fall 2016"
+       ]
     },
     {
       "title": "Joanna L. Sullivan Scholarship",
