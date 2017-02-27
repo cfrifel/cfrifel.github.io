@@ -17,49 +17,51 @@
     "profiles": [
       {
         "network": "github",
-        "username": "chrisnguyenhi",
-        "url": "http://github.com/chrisnguyenhi"
+        "username": "cfrifel",
+        "url": "http://github.com/cfrifel"
       },
       {
         "network": "linkedin",
-        "username": "chrisnguyenhi",
-        "url": "http://linkedin.com/in/chrisnguyenhi"
+        "username": "curtis frifeldt",
+        "url": "https://www.linkedin.com/in/curtisfrifeldt/"
       }  
     ]
   },
   "interests": [
     {
-      "name": "Software Development, Project Management, and Education",
+      "name": "Software Development, Internet Security, Internet of Things",
       "keywords": [
       ]
     }
   ],
   "skills": [
     {
-      "name": "Languages and Frameworks",
+      "name": "Proficient: ",
       "level": "",
       "keywords": [
+        "C",
         "JavaScript",
-        "Java",
-        "C++",
+        "Python",
+        "TCP/IP"
         "HTML",
         "CSS",
-        "PHP",
-        "SQL"
+        "Linux",
+        "Bash",
+        "Eagle",
+        "Netlogo"
       ]
     },
     {
-      "name": "Toolsets",
+      "name": "Experience",
       "level": "",
       "keywords": [
-        "Node.js",
-        "Cordova",
-        "Ionic",
-        "OpenCV",
-        "MySQL",
-        "Brunel",
-        "Git",
-        "TCP/IP",
+        "C++",
+        "Java",
+        "SQL",
+        "Matlab",
+        "VHDL",
+        "Verilog",
+        "Arduino",
         "Raspberry Pi"
       ]
     }
@@ -67,51 +69,52 @@
   "education": [
     {
       "institution": "University of Hawaii at Manoa, Honolulu, HI",
-      "area": "Computer Science (Expected Graduation: Spring, 2018)",
+      "area": "Computer Engineering (Expected Graduation: Spring, 2018)",
       "studyType": "Undergraduate",
-      "startDate": "2014-09-01",
+      "startDate": "2013",
       "endDate": "Present",
-      "gpa": "3.78",
+      "gpa": "3.24",
       "courses": [
       ]
     }
   ],
   "work": [
     {
-      "company": "Oceanit Laboratories, Inc.",
-      "position": "Network and Security Intern",
-      "website": "http://www.oceanit.com",
-      "startDate": "2016-11-01",
+      "company": "Pearl Harbor Naval Shipyard & IMF",
+      "position": "Nuclear Engineering Intern",
+      "website": "http://www.navsea.navy.mil/Home/Shipyards/PHNS-IMF/",
+      "startDate": "2015",
       "endDate": "Present",
       "summary": "",
       "highlights": [
-        "Used open-source software and seven Raspberry Pis to create an inexpensive, automated 72-inch video wall system.",
-        "Conducted high-level network assessments for external clients and state agencies."
+        "Work with a project team to support maintenance on a nuclear submarine",
+        "Perform system checks and audits to ensure plant readiness for upcoming procedures",
+        "Read nuclear plant manuals and test instructions to show proficiency through discussion",
+        "Generate training briefing packages used to instruct ships force for upcoming procedures"
       ]
     },
     {
-      "company": "Ditto",
-      "position": "Front End Development Intern",
-      "website": "http://bluestartups.com/cohort-6/",
-      "startDate": "2015-10-30",
-      "endDate": "2016-02-15",
+      "company": "Stan Sheriff Center",
+      "position": "Usher and Ticket Scanner",
+      "website": "http://www.hawaiiathletics.com/sports/2008/5/14/stan_sheriff_center.aspx?tab=stansheriffcenter",
+      "startDate": "2014",
+      "endDate": "2015",
       "summary": "",
       "highlights": [
-        "Developed the website for Ditto, a social media startup in the Blue Startups Accelerator Program.",
-        "Conducted extensive consumer research using AB testing and Google Analytics of user behavior.",
-        "Recruited and screened 100+ beta testers for Ditto's initial release."
+        "Ensure the safety of spectators and athletes by enforcing an established code of conduct",
+        "Attend to customer complaints with friendly customer service"
       ]
     },
      {
-      "company": "Oceanit Laboratories, Inc.",
-      "position": "Oceanit Student Intern",
-      "website": "http://www.oceanit.com",
-      "startDate": "2015-06-02",
-      "endDate": "2015-07-28",
+      "company": "Disease Propagation Simulation Project",
+      "position": "",
+      "website": "",
+      "startDate": "2017",
+      "endDate": "Present",
       "summary": "",
       "highlights": [
-        "Customized a mobile geographic information system (GIS) application that reduced the damage assessment time of disaster response units by 40% (4-5 hours) using the ArcGIS API.",
-        "Developed a cross-platform Customer Relationship Management (CRM) mobile application using the Cordova framework to increase client and consultant interaction by 10%."
+        "",
+        ""
       ]
     },
      {
