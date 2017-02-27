@@ -14,7 +14,7 @@
       "countryCode": "USA",
       "region": "Hawaii"
     },
-    "profiles": [
+    "Profiles": [
       {
         "network": "github",
         "username": "cfrifel",
@@ -27,7 +27,7 @@
       },
     ]
   },
-  "interests": [
+  "Interests": [
     {
       "name": "Robotics",
       "keywords": [
@@ -44,7 +44,7 @@
       ]
     }
   ],
-  "skills": [
+  "Skills": [
     {
       "name": "Proficient",
       "level": "",
@@ -86,14 +86,9 @@
       "endDate": "Present",
       "gpa": "3.24",
       "courses": [
-        "ICS 141: Discrete Mathematics",
-        "EE 160:  Programming for Engineers (in C)",
-        "EE 205:  Object Oriented Programming (in C++)",
-        "EE 260:  Introduction to Digital Design",
-        "EE 296:  Sophomore Project (Arduino)",
-        "EE 367:  Data Structures and Algorithms",
-        "EE 396:  Junior Project (Micromouse)",
-        "EE 468:  Operating Systems"
+        "Programming in C, Discrete Math, Object Oriented Programming in C++, Introduction to Digital Design, ",
+        "Computer Data Structures and Algorithms, Introduction to Operating Systems, Internet of Things (concurrent),",
+        "Software Engineering (concurrent)"
       ]
     }
   ],
