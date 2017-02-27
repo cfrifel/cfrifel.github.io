@@ -148,27 +148,25 @@
   ],
   "volunteer": [
     {
-      "organization": "Cross-Cultural Solutions",
-      "website": "https://www.crossculturalsolutions.org/",
-      "position": "International Volunteer",
-      "startDate": "2016-01-01",
-      "endDate": "2016-01-09",
+      "organization": "VEX Robotics",
+      "website": "",
+      "position": "Volunteer",
+      "startDate": "2016",
+      "endDate": "Present",
       "summary": "",
       "highlights": [
-        "Taught English to Kindergarteners and painted an entire school in Tecpan, Guatemala courtesy of the Hamilton Award Scholarship (2013).",
+        "Referred at local events to ensure adequate staffing",
       ]
     },
     {
       "organization": "",
       "website": "",
-      "position": "Clubs and Societies",
-      "startDate": "",
-      "endDate": "",
+      "position": "IEEE Student Member",
+      "startDate": "2015",
+      "endDate": "Present",
       "summary": "",
       "highlights": [
-        "Secretary, Vietnamese Student Organization at UH Manoa (VSOUH), 2016-Present",
-        "Member, Hawaii Undergraduate Initiative (HUI), 2015-Present",
-        "Member, IEEE Student Branch, 2015-2016",
+        "Assist in planning and execution of low-scale engineering social events",
       ]
     }
   ],
