@@ -175,22 +175,19 @@
       "title": "Dean's List",
       "date": "",
       "awarder": "University of Hawaii at Manoa",
-      "summary": [
-        "Academic honor given to students with a 3.5 GPA or above",
-        "Semesters Received: Spring 2016, Fall 2016"
-       ]
+      "summary": "Academic honor given to students with a 3.5 GPA or above.  Semesters Received: Spring 2016, Fall 2016"
     },
     {
-      "title": "Joanna L. Sullivan Scholarship",
-      "date": "2014",
-      "awarder": "Hawaii Rotary Youth Foundation",
-      "summary": "Scholarship award given to 1 Hawaii student attending the University of Hawaii at Manoa http://www.hawaiirotaryyouthfoundation.org/currentrecipients"
-    },
-    {
-      "title": "Dean's List",
-      "date": "2014-Present",
+      "title": "Centennial Scholarship",
+      "date": "2013 - Present",
       "awarder": "University of Hawaii at Manoa",
-      "summary": "Academic honor given to students with a 3.5 GPA or above. Semesters Received: Fall 2014, Spring 2015, Fall 2015, Spring 2016, Fall 2016"
+      "summary": "Awarded to students who gradutate high school with a minimum unweighted GPA of 3.8 or higher"
+    },
+    {
+      "title": "World Championship Finalists",
+      "date": "2012",
+      "awarder": "Vex Robotics",
+      "summary": "My team (1973D) placed second amongst over 4000 teams at the 2012 VEX Robotics World Championships"
     }
   ],
   "references": [
