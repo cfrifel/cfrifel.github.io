@@ -86,9 +86,7 @@
       "endDate": "Present",
       "gpa": "3.24",
       "courses": [
-        "Programming in C, Discrete Math, Object Oriented Programming in C++, Introduction to Digital Design, ",
-        "Computer Data Structures and Algorithms, Introduction to Operating Systems, Internet of Things (concurrent),",
-        "Software Engineering (concurrent)"
+        
       ]
     }
   ],
