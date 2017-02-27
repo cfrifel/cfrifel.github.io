@@ -131,6 +131,19 @@
         "Hardware: Construction of physical electric circuits through soldering and using PCBs",
         "Software: Embedded systems software design, developed a basic control system to prevent collisions"
       ]
+    },
+    {
+      "company": "Arduino UNO",
+      "position": "Sophomore Project",
+      "website": "",
+      "startDate": "2014",
+      "endDate": "2014",
+      "summary": "",
+      "highlights": [
+        "Program an Arduino platform to interpret audio input with a led strip",
+        "Implement serial communication to run the led strip through a limited number of ports",
+        "Restrict memory consumption by using loops and functions"
+      ]
     }
   ],
   "volunteer": [
