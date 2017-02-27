@@ -14,7 +14,7 @@
       "countryCode": "USA",
       "region": "Hawaii"
     },
-   "profiles": [
+    "profiles": [
       {
         "network": "github",
         "username": "chrisnguyenhi",
@@ -36,107 +36,154 @@
   ],
   "skills": [
     {
-      "name": "Proficient",
+      "name": "Languages and Frameworks",
       "level": "",
       "keywords": [
-        "C",
-        "Javascript",
+        "JavaScript",
+        "Java",
+        "C++",
         "HTML",
         "CSS",
-        "Python",
-        "Linux",
-        "Bash",
-        "Git/GitHub",
-        "Eagle",
-        "NetLogo",
+        "PHP",
+        "SQL"
       ]
     },
     {
-      "name": "Experience",
+      "name": "Toolsets",
       "level": "",
       "keywords": [
-        "C++",
-        "Java",
-        "SQL",
+        "Node.js",
+        "Cordova",
+        "Ionic",
+        "OpenCV",
+        "MySQL",
+        "Brunel",
+        "Git",
         "TCP/IP",
-        "Matlab",
-        "VHDL",
-        "Verilog",
-        "Arduino",
         "Raspberry Pi"
       ]
     }
   ],
   "education": [
     {
-      "institution": "University of Hawaii, Honolulu, HI",
-      "area": "Computer Engineering (Expected Graduation: May 2017)",
+      "institution": "University of Hawaii at Manoa, Honolulu, HI",
+      "area": "Computer Science (Expected Graduation: Spring, 2018)",
       "studyType": "Undergraduate",
-      "startDate": "2013",
+      "startDate": "2014-09-01",
       "endDate": "Present",
-      "gpa": "3.24",
+      "gpa": "3.78",
       "courses": [
       ]
     }
   ],
   "work": [
     {
-      "company": "Pearl Harbor Naval Shipyard and IMF",
-      "position": "Nuclear Engineering Intern",
-      "website": "http://www.navsea.navy.mil/Home/Shipyards/PHNS-IMF/",
-      "startDate": "2015",
+      "company": "Oceanit Laboratories, Inc.",
+      "position": "Network and Security Intern",
+      "website": "http://www.oceanit.com",
+      "startDate": "2016-11-01",
       "endDate": "Present",
-      "summary": 
+      "summary": "",
       "highlights": [
-        "Work with a project team to support maintenance on a nuclear submarine",
-        "Perform system checks and audits to ensure plant readiness for upcoming procedures",
-        "Read nuclear plant manuals and test instructions to show proficiency through discussion",
-        "Generate training briefing packages used to instruct ships force for upcoming procedures"
+        "Used open-source software and seven Raspberry Pis to create an inexpensive, automated 72-inch video wall system.",
+        "Conducted high-level network assessments for external clients and state agencies."
       ]
     },
     {
-      "company": "Stan Sheriff Center",
-      "position": "Usher and Ticket Scanner",
-      "website": "http://hawaiiathletics.com/sports/2008/5/14/stan_sheriff_center.aspx",
-      "startDate": "2014",
-      "endDate": "2015",
-      "summary": 
+      "company": "Ditto",
+      "position": "Front End Development Intern",
+      "website": "http://bluestartups.com/cohort-6/",
+      "startDate": "2015-10-30",
+      "endDate": "2016-02-15",
+      "summary": "",
       "highlights": [
-        "Ensure safety for spectators and athletes by enforcing an established code of conduct",
-        "Attend to customer complaints with friendly customer service"
+        "Developed the website for Ditto, a social media startup in the Blue Startups Accelerator Program.",
+        "Conducted extensive consumer research using AB testing and Google Analytics of user behavior.",
+        "Recruited and screened 100+ beta testers for Ditto's initial release."
+      ]
+    },
+     {
+      "company": "Oceanit Laboratories, Inc.",
+      "position": "Oceanit Student Intern",
+      "website": "http://www.oceanit.com",
+      "startDate": "2015-06-02",
+      "endDate": "2015-07-28",
+      "summary": "",
+      "highlights": [
+        "Customized a mobile geographic information system (GIS) application that reduced the damage assessment time of disaster response units by 40% (4-5 hours) using the ArcGIS API.",
+        "Developed a cross-platform Customer Relationship Management (CRM) mobile application using the Cordova framework to increase client and consultant interaction by 10%."
+      ]
+    },
+     {
+      "company": "Hawaii Department of Education",
+      "position": "STEM Resource Mentor",
+      "website": "http://www.hawaiipublicschools.org",
+      "startDate": "2014-09-16",
+      "endDate": "Present",
+      "summary": "Computer Science and STEM Mentor under Bebi Davis, PhD of the Kaimuki-McKinley-Roosevelt Complex Area",
+      "highlights": [
+        "Collaborated with 28 schools to develop a 21st-century STEM curriculum which sparked a 48% STEM interest among Hawaii high school students.",
+        "Mentored students in the Honolulu District and Hawaii State Science and Engineer Fair that totalled $15,000+ in awards from Chevron, IEEE, Intel and more.",
+        "Connected high school students with external mentors at the John A. Burns School of Medicine for research-based internships."
       ]
     }
   ],
   "volunteer": [
     {
-      "organization": "Robotics Alumni Volunteering Team",
-      "website": "http://manoa.hawaii.edu/reis",
-      "position": "Volunteer",
-      "startDate": "2016",
-      "endDate": "Present",
-      "summary": "Volunteer at local robotics events.",
+      "organization": "Cross-Cultural Solutions",
+      "website": "https://www.crossculturalsolutions.org/",
+      "position": "International Volunteer",
+      "startDate": "2016-01-01",
+      "endDate": "2016-01-09",
+      "summary": "",
       "highlights": [
+        "Taught English to Kindergarteners and painted an entire school in Tecpan, Guatemala courtesy of the Hamilton Award Scholarship (2013).",
+      ]
+    },
+    {
+      "organization": "",
+      "website": "",
+      "position": "Clubs and Societies",
+      "startDate": "",
+      "endDate": "",
+      "summary": "",
+      "highlights": [
+        "Secretary, Vietnamese Student Organization at UH Manoa (VSOUH), 2016-Present",
+        "Member, Hawaii Undergraduate Initiative (HUI), 2015-Present",
+        "Member, IEEE Student Branch, 2015-2016",
       ]
     }
   ],
   "awards": [
     {
-      "title": "Dean's List: Spring 2016, Fall 2016",
-      "date": "",
+      "title": "Computer Science Award",
+      "date": "2014",
       "awarder": "University of Hawaii at Manoa",
-      "summary": "Awarded to students who receive a GPA of 3.5 or higher based on 12 or more graded credits"
+      "summary": "Awarded at the 2014 Hawaii State Science and Engineering Fair for my project, PIPE. See my portfolio site for more details."
     },
     {
-      "title": "Centennial Scholarship",
-      "date": "2013-Present",
-      "awarder": "University of Hawaii at Manoa",
-      "summary": "Awarded to incoming freshmen who completed high school with a minimum unweighted GPA of 3.80."
+      "title": "Best in Computer Science",
+      "date": "2014",
+      "awarder": "Hawaii Department of Education",
+      "summary": "Awarded at the 2014 Honolulu District Science and Engineering Fair for my project, PIPE. See my portfolio site for more details."
     },
     {
-      "title": "VEX Robotics World Championship Finalist",
-      "date": "April 2012",
-      "awarder": "Vex Robotics",
-      "summary": "My team (1973D) won second place at the 2012 VEX World Championship."
+      "title": "Joanna L. Sullivan Scholarship",
+      "date": "2014",
+      "awarder": "Hawaii Rotary Youth Foundation",
+      "summary": "Scholarship award given to 1 Hawaii student attending the University of Hawaii at Manoa http://www.hawaiirotaryyouthfoundation.org/currentrecipients"
+    },
+    {
+      "title": "STEM Award",
+      "date": "2014",
+      "awarder": "Pearl Harbor Naval Shipyard and Maintenance Facility",
+      "summary": "Scholarship award funded by the National Defense Education Program for academic achievement, participation in FIRST robotics, and dedication to STEM"
+    },
+    {
+      "title": "Dean's List",
+      "date": "2014-Present",
+      "awarder": "University of Hawaii at Manoa",
+      "summary": "Academic honor given to students with a 3.5 GPA or above. Semesters Received: Fall 2014, Spring 2015, Fall 2015, Spring 2016, Fall 2016"
     }
   ],
   "references": [
