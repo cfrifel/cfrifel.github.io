@@ -1,7 +1,7 @@
 ---
 layout: essay
 type: essay
-title: "Language Exchange"
+title: Language Exchange
 date: 2017-03-09
 labels:
   - Software Engineering
