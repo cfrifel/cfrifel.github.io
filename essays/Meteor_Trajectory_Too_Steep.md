@@ -9,7 +9,7 @@ labels:
 ---
 
 ## Flashbacks
-Back in grade school, I used to swim for both a club swimming team and my local high school swim team.  I remember being put through rigorous training to become a competitive swimmer, often challenging my audacity and sanity along the way.  These past few weeks that I spent learning the basics of Meteor reminded me of those swimming days, in both the intensity and the number of headaches I have received thus.  But, there was one other aspect of swimming that I noticed shared closely with Meteor development.
+Back in grade school, I used to swim for both a club swimming team and my local high school swim team.  I remember being put through rigorous training to become a competitive swimmer, often challenging my audacity and sanity along the way.  For the past few weeks, learning the basics of Meteor reminded me of those swimming days, in both the intensity and the number of headaches I have received thus.  But, there was one other aspect of swimming that I noticed shared closely with Meteor development.
 
 ## True Multitasking
 You are probably wondering what swimming has in common with using Meteor.  To swim any stroke, a person must use their arms, legs, hips, and other parts of their body at the same time.  Only with a precisely coordinated movement of a person’s whole body are they able to move effectively through the water.  The result of a good swimmer using their entire body to propel themselves forward in the water is a look of effortless fluidity.
