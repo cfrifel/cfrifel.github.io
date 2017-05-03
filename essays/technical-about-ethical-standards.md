@@ -2,7 +2,7 @@
 layout: essay
 type: essay
 title: "Technical About Ethical Standards"
-date: 2017-03-23
+date: 2017-05-02
 labels:
   - Software Engineering
   - Ethics Case Study
