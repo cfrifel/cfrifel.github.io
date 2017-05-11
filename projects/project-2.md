@@ -25,7 +25,7 @@ For my Senior Project (EE 496), I will be creating a Netlogo simulation of peopl
 ## Motivation
 
 
-HAIs are diseases contracted by patients while under medical care.  Sadly, there is no technology right now that allows doctors/nurses to study the spread of HAIs in a hospital setting in real-time.  The best available technology to them is on a day to day resolution.  I hope to create a simulation that closly matches the events of a real hospital to shed some light on how HAIs spread on a smaller time resolution.
+HAIs are diseases contracted by patients while under medical care.  Sadly, there is no technology right now that allows doctors/nurses to study the spread of HAIs in a hospital setting in real-time.  The best available technology to them is on a day to day resolution.  I hope to create a simulation that closely matches the events of a real hospital to shed some light on how HAIs spread on a smaller time resolution.
 
 
 I will be making a github page with my Netlogo simulation soon.  It is currently under construction.

@@ -11,7 +11,7 @@ labels:
 summary: My team developed a robotic mouse that completed the maze in the 2015 UH Micromouse competition.
 ---
 
-<div class="ui medium rounded images">
+<div class="ui image">
   <img class="ui image" src="../images/maze.jpg">
 </div>
 
