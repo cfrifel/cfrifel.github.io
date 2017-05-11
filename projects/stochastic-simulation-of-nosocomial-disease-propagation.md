@@ -3,15 +3,14 @@ layout: project
 type: project
 image: images/netlogo.png
 title: Stochastic Simulation of Nosocomial Disease Propagation
-permalink: projects/vacay
-date: 2016
+permalink: projects/stochastic-simulation-of-nosocomial-disease-propagation
+date: 2017
 labels:
   - Netlogo
   - Monte Carlo
   - Hospital Simulation
-summary: construct a simulation to study HAI propagation characteristics
+summary: Program a simulation to study HAI propagation characteristics
 ---
-
 
 <div class="ui medium rounded images">
   <img class="ui image" src="../images/nlogo-simulation.jpg">

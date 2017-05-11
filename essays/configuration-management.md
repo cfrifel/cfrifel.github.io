@@ -7,6 +7,7 @@ labels:
   - DVCS
   - Configuration Management
   - Reflection
+summary: test test test
 ---
 
 ### Simply Put
