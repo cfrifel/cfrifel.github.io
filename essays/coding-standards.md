@@ -5,7 +5,9 @@ title: Let's Copy Each Other
 date: 2017-02-02
 labels:
   - Coding Standards
+  - ESLint
   - Art vs. Process
+summary: Reflection on coding standards using ESLint
 ---
 
 ### How We Learn
