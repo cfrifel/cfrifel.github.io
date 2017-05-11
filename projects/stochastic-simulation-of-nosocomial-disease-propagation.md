@@ -11,10 +11,7 @@ labels:
   - Hospital Simulation
 summary: Program a simulation to study HAI propagation characteristics
 ---
-
-<div class="ui medium rounded images">
-  <img class="ui image" src="../images/nlogo-simulation.jpg">
-</div>
+  <img class="ui centered image" src="../images/nlogo-simulation.jpg">
 
 ### Background
 Hospital Associated Infections (HAIs) are defined as an infection that one contracts from being in a health-care facility.  HAIs account for billions of dollars in health-care costs and are responsible for roughly 99,000 deaths every year within the US [1].  This project focused on developing a computer simulation to model the propagation of HAIs in a hospital setting based on adjustable parameters.
