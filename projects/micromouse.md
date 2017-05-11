@@ -13,7 +13,7 @@ summary: Build an autonomous robot to navigate a maze
 ---
 
 <div class="ui image">
-  <img class="ui small image" src="../images/maze.jpg">
+  <img class="ui large image" src="../images/maze.jpg">
 </div>
 
 ### Overview
