@@ -14,15 +14,17 @@ summary: A way to study the spread of infectious disease propagation throughout 
 
 
 <div class="ui medium rounded images">
-  <img class="ui image" src="../images/hospital.jpg">
+  <img class="ui image" src="../images/nlogo-simulation.jpg">
 </div>
 
-### Project Description
-For my Senior Project (EE 496), I will be creating a Netlogo simulation of people occupying a hospital setting.  My goal with this project is to better understand the motions of nurses, patients, and visitors within a hospital setting in hopes to quantify the spread of infectious diseases between them.  After I make a complete simulation of a time period within the simulation, I plan to insert a transfer function that will allow people in the simulation to contract and spread a Hospital Associated Infection (HAI) to others based on proximity and exposure time.
+### Background
+Hospital Associated Infections (HAIs) are defined as an infection that one contracts from being in a health-care facility.  HAIs account for billions of dollars in health-care costs and are responsible for roughly 99,000 deaths every year within the US [1].  This project focused on developing a computer simulation to model the propagation of HAIs in a hospital setting based on adjustable parameters.
+
+### Overview
+We used a programmable modeling environment called NetLogo to construct our hospital simulation.  The layout of the NetLogo model was based off the John A. Burns School of Medicine (JABSOM) SimTiki Simulation Center in order to model an accurate health-care facility.  To model the activities of health-care workers, visitors, and patients in a hospital, we programmed a movement script for these agents in the simulation.  On top of the movement script, we programmed an SIR model to track the infectious state of each agent in the simulation.  In our model, we record the contacts that each agent has with another agent.  If an agent comes within a predetermined distance from another agent in the model, we define this interaction as a contact.  To see the propagation characteristics of HAIs in our model, we introduced a random chance that an agent can become infected after having a contact with an infected agent.  We then conducted Monte Carlo simulations by running our model many times while varying the distance in which we define a contact and the probability of transfer.
+
+Our NetLogo code is hosted on Github here.
 
 
-### Motivation
-HAIs are diseases contracted by patients while under medical care.  Sadly, there is no technology right now that allows doctors/nurses to study the spread of HAIs in a hospital setting in real-time.  The best available technology to them is on a day to day resolution.  I hope to create a simulation that closely matches the events of a real hospital to shed some light on how HAIs spread on a smaller time resolution.
-
-
-I will be making a github page with my Netlogo simulation soon.  It is currently under construction.
+[1] "AHRQ's Efforts to Prevent and Reduce Health Care-Associated Infections." *AHRQ—Agency for Healthcare Research and Quality: Advancing Excellence in Health Care.* U.S. HHS:
+Agency for Healthcare Research and Quality, 02 Oct. 2014. Web. 10 May. 2017.
