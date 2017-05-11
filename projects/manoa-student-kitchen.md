@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: images/toaster.jpg
+image: images/toaster.JPG
 title: Manoa Student Kitchen
 permalink: projects/manoa-student-kitchen
 date: 2017
