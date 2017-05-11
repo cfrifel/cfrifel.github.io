@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: images/
+image: images/toaster.jpg
 title: Manoa Student Kitchen
 permalink: projects/manoa-student-kitchen
 date: 2017
@@ -15,7 +15,7 @@ summary: Manoa Student Kitchen is a web-app that lets UH Manoa students create a
 ### Overview
 College students are very busy people and often don't make their own meals.  Whether it's because they have too little time, experience, or money, making meals is not something every college student does.  This is where we struck the inspiration behind Manoa Student Kitchen.
 
-<img class="ui image" src="../images/msk-home-page.png">
+<img class="ui centered image" src="../images/msk-home-page.png">
 
 Manoa Student Kitchen is a web application designed to offer UH Manoa students a way to create and share simple recipes with fellow students.  Because college students have limited access to kitchen appliances, emphasis is placed on uploading recipes that are simple enough for a college student to make.  When creating a recipe, students can recommend locations at which to obtain a specific ingredient and at what cost.  Fellow students can then read where get the required ingredients when viewing the recipe.
 
