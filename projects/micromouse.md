@@ -7,12 +7,13 @@ permalink: projects/micromouse
 date: 2015
 labels:
   - PIC Microcontroller
-  - MPLab
-summary: My team developed a robotic mouse that completed the maze in the 2015 UH Micromouse competition.
+  - Maze-solving
+  - Automation
+summary: Build an autonomous robot to navigate a maze
 ---
 
 <div class="ui image">
-  <img class="ui image" src="../images/maze.jpg">
+  <img class="ui small image" src="../images/maze.jpg">
 </div>
 
 ### Overview

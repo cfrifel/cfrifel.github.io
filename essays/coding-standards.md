@@ -7,7 +7,6 @@ labels:
   - Coding Standards
   - ESLint
   - Art vs. Process
-summary: My reflection on coding standards using ESLint
 ---
 
 ### How We Learn
