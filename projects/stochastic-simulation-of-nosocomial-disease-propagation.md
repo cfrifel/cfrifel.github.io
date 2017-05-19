@@ -41,6 +41,8 @@ Figure 2 shows a snapshot of the NetLogo simulation populated with several “ag
 
 In all rooms except the isolation room, agents can interact with other agents and generate contact data. When an agent moves into the isolation room, they’re presence becomes invisible to the other agents and are unable to generate contact data. This allows the simulation to model a moving agent leaving and returning to the simulation.
 
+#### more sections to come later today (5/18/17)...
+
 
 #### References
 [1] "AHRQ's Efforts to Prevent and Reduce Health Care-Associated Infections." *AHRQ—Agency for Healthcare Research and Quality: Advancing Excellence in Health Care.* U.S. HHS:
