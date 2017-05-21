@@ -108,10 +108,10 @@ The official SimTiki Trial was conducted on April 23rd and mimicked the programm
 
 #### Monte Carlo
 
-<img class="ui large centered image" src="../images/ee496 report/figure-9.png">
+<img class="ui large centered image" src="../images/ee496 report/figure-9.PNG">
 <p style="text-align: center">Figure 9.  Monte Carlo results</p>
 
-<img class="ui large centered image" src="../images/ee496 report/figure-10.png">
+<img class="ui large centered image" src="../images/ee496 report/figure-10.PNG">
 <p style="text-align: center">Figure 10.  Monte Carlo graph</p>
 
 The color of each data point on the graph denotes the EDOI.  There are four distinct colors used to represent the different methods a HAI can be transmitted during a contact.  For example, a blue dot represents an EDOI of 2 feet, which simulates a touch contact between two agents in the simulation.  A data point’s position along the x-axis represents the chosen POI for that Monte Carlo simulation.  For each EDOI, we simulated eight different POIs to see how varying the contagiousness of an infection would affect how many agents got infected over the 48-hour run.  A data point’s position along the y-axis represents the average number of infected agents for that Monte Carlo simulation.
