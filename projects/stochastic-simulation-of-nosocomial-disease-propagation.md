@@ -29,12 +29,12 @@ HAIs are defined as infections a person contracts while in a healthcare facility
 #### Layout
 
 <img class="ui large centered image" src="../images/ee496 report/figure-1.png">
-Figure 1.  John A. Burn's School of Medicine SimTiki Simulation Center
+<p style="text-align: center">Figure 1.  John A. Burn's School of Medicine SimTiki Simulation Center</p>
 
 The NetLogo simulation was modeled after the JABSOM SimTiki Simulation Center shown in figure 1. This layout was chosen to provide realism within the simulation. A physical trial in the SimTiki Simulation Center would later be conducted.
 
 <img class="ui large centered image" src="../images/ee496 report/figure-2.png">
-Figure 2. NetLogo simulation layout with agents
+<p style="text-align: center">Figure 2. NetLogo simulation layout with agents</p>
 
 As shown in figure 2, the NetLogo simulation closely resembles the layout of the JABSOM SimTiki Simulation Center. The assorted colors in figure 2 denote separate rooms within the simulation. The staff room is colored green, the ward room purple, the hallway grey, and the isolation room brown.
 
@@ -45,7 +45,7 @@ In all rooms except the isolation room, agents can interact with other agents an
 #### Movement script
 
 <img class="ui large centered image" src="../images/ee496 report/figure-3.png">
-<p style"text-align: center">Figure 3.  NetLogo simulation layout with agent's mapped movements</p>
+<p style="text-align: center">Figure 3.  NetLogo simulation layout with agent's mapped movements</p>
 
 Figure 3 shows the NetLogo simulation overlaid with red lines.  These red lines denote the various paths of the moving agents in the simulation.  To simulate hospital activity, each moving agent is programmed to follow a movement script that spans an equivalent of 30 minutes in real-time.  The motion script was modeled from two observational studies conducted by WOMBAT and Michael Peter Abbey from Griffith University [5, 6].  The results of these studies report the average amount of time a healthcare worker spends doing specific tasks at the hospital.  These results were used to create a movement script for each healthcare worker that follow these averages.  At the end of the 30-minute simulation duration, all moving agents return to their starting positions.  This allows the simulation to be looped repeatedly to simulate longer durations of hospital activity.
 
@@ -58,7 +58,7 @@ To choose meaningful EDOIs for the simulation, categorization of the different m
 #### SIR Model
 
 <img class="ui large centered image" src="../images/ee496 report/figure-4.png">
-<p style"text-align: center">Figure 4.  SIR model [8]</p>
+<p style="text-align: center">Figure 4.  SIR model [8]</p>
 
 The SIR model, shown in figure 4, classifies an agent’s status during the simulation.  A susceptible status means that the agent may contract an infection if it has a contact with an agent with an infected status.  It is important to note that in the real-world, persons may have immunity to the HAI of concern.  The simulation simplifies this aspect by assuming every agent in the susceptible state has a non-zero chance of contracting the simulated HAI.  An agent in a susceptible state is denoted in the simulation by being colored white as shown in figure 2.
 
@@ -68,7 +68,8 @@ While an agent is in the infected state, they do not show symptoms as to simulat
 
 #### Contact tracing
 
-[Figure 5.  ]
+<img class="ui large centered image" src="../images/ee496 report/figure-5.png">
+<p style="text-align: center">Figure 5.  Sample output to the database</p>
 
 A contact tracing method was implemented to capture a log of all contacts generated from agents moving about in the simulation.  The contact tracing method also displays contact data in the NetLogo interface and generates a log file that is sent to a database for analysis.  Figure 5 shows a snippet of the contact log generated from a single run of the simulation.
 
@@ -76,7 +77,8 @@ The termination of a contact session in the simulation generates an output that 
 
 #### MySQL
 
-[Figure 6.  ]
+<img class="ui large centered image" src="../images/ee496 report/figure-6.png">
+<p style="text-align: center">Figure 6.  LAMP stack platform</p>
 
 When researching suitable databases to use for this project, the choice narrowed down to either MongoDB or MySQL.  MySQL was eventually chosen over MongoDB due to its relational characteristics.  A relational database is structured to recognize relationships between inputs and offers computational methods in which to analyze the contact log.  The database is setup in Ubuntu, a Linux operating system.  A LAMP stack, which includes Linux, Apache, MySQL, and PHP, was implemented to provide the necessary peripheral functions for the database.  With this platform, the database can be easily accessed, updated, and monitored.  From NetLogo, the contact log is written to a .sql file in a predetermined file format so that the data can be directly uploaded into the database.  Figure 6 shows a snapshot of the LAMP stack and displays the contact data presented in figure 5.
 
@@ -88,11 +90,13 @@ To generate contact data based on the different methods of infection transfer, f
 
 #### John A. Burn’s School of Medicine SimTiki Trial
 
-[Figure 7.  ]
+<img class="ui large centered image" src="../images/ee496 report/figure-7.png">
+<p style="text-align: center">Figure 7.  Intel Edison devices</p>
 
 Figure 7 shows some of the Intel Edison devices that were used to conduct a physical trial of the NetLogo simulation at the JABSOM SimTiki Center.  A contact tracing program written in C++ was programmed onto 12 Edison “tags.”  Each tag is battery powered to provide the portability needed for the tags to be worn and placed throughout the simulation center.
 
-[Figure 8.  ]
+<img class="ui large centered image" src="../images/ee496 report/figure-8.png">
+<p style="text-align: center">Figure 8.  State diagram of a contact</p>
 
 Figure 8 shows a state diagram of how a contact is determined, established, and logged because of the tag’s programming behavior.  Each tag begins at state 0 which is the inactive state.  When inactive, the tag is actively searching for nearby tags but has failed to locate anyone.  After the tag initially sees another tag’s presence, the pair of tags will enter the watching state, denoted as state 1.  If three consecutive acknowledgements are made between the tags, they both transition to state 2 and are now actively tracking the contact session between them.  If the tags fail to record three consecutive acknowledgments, they transition directly back to state 0.  To maintain an active connection, each tag must receive a confirmation of the other tag’s presence every 800ms.  When the contact times out, each tag generates an entry into its contact log and returns to the inactive state.
 
@@ -104,9 +108,11 @@ The official SimTiki Trial was conducted on April 23rd and mimicked the programm
 
 #### Monte Carlo
 
-[Figure 9.  ]
+<img class="ui large centered image" src="../images/ee496 report/figure-9.png">
+<p style="text-align: center">Figure 9.  Monte Carlo results</p>
 
-[Figure 10.  ]
+<img class="ui large centered image" src="../images/ee496 report/figure-10.png">
+<p style="text-align: center">Figure 10.  Monte Carlo graph</p>
 
 The color of each data point on the graph denotes the EDOI.  There are four distinct colors used to represent the different methods a HAI can be transmitted during a contact.  For example, a blue dot represents an EDOI of 2 feet, which simulates a touch contact between two agents in the simulation.  A data point’s position along the x-axis represents the chosen POI for that Monte Carlo simulation.  For each EDOI, we simulated eight different POIs to see how varying the contagiousness of an infection would affect how many agents got infected over the 48-hour run.  A data point’s position along the y-axis represents the average number of infected agents for that Monte Carlo simulation.
 
