@@ -28,12 +28,13 @@ HAIs are defined as infections a person contracts while in a healthcare facility
 ### (3) Design methodology
 #### Layout
 
-<img class="ui centered image" src="../images/ee496 report/figure-1.png">
+<img class="ui large centered image" src="../images/ee496 report/figure-1.png">
 Figure 1.  John A. Burn's School of Medicine SimTiki Simulation Center
 
 The NetLogo simulation was modeled after the JABSOM SimTiki Simulation Center shown in figure 1. This layout was chosen to provide realism within the simulation. A physical trial in the SimTiki Simulation Center would later be conducted.
 
-[Figure 2. NetLogo simulation layout with agents]
+<img class="ui large centered image" src="../images/ee496 report/figure-2.png">
+Figure 2. NetLogo simulation layout with agents
 
 As shown in figure 2, the NetLogo simulation closely resembles the layout of the JABSOM SimTiki Simulation Center. The assorted colors in figure 2 denote separate rooms within the simulation. The staff room is colored green, the ward room purple, the hallway grey, and the isolation room brown.
 
@@ -43,7 +44,8 @@ In all rooms except the isolation room, agents can interact with other agents an
 
 #### Movement script
 
-[Figure 3.  NetLogo simulation layout with agent's mapped movements]
+<img class="ui large centered image" src="../images/ee496 report/figure-3.png">
+<p style"text-align: center">Figure 3.  NetLogo simulation layout with agent's mapped movements</p>
 
 Figure 3 shows the NetLogo simulation overlaid with red lines.  These red lines denote the various paths of the moving agents in the simulation.  To simulate hospital activity, each moving agent is programmed to follow a movement script that spans an equivalent of 30 minutes in real-time.  The motion script was modeled from two observational studies conducted by WOMBAT and Michael Peter Abbey from Griffith University [5, 6].  The results of these studies report the average amount of time a healthcare worker spends doing specific tasks at the hospital.  These results were used to create a movement script for each healthcare worker that follow these averages.  At the end of the 30-minute simulation duration, all moving agents return to their starting positions.  This allows the simulation to be looped repeatedly to simulate longer durations of hospital activity.
 
@@ -55,7 +57,8 @@ To choose meaningful EDOIs for the simulation, categorization of the different m
 
 #### SIR Model
 
-[Figure 4.  ]
+<img class="ui large centered image" src="../images/ee496 report/figure-4.png">
+<p style"text-align: center">Figure 4.  SIR model [8]</p>
 
 The SIR model, shown in figure 4, classifies an agent’s status during the simulation.  A susceptible status means that the agent may contract an infection if it has a contact with an agent with an infected status.  It is important to note that in the real-world, persons may have immunity to the HAI of concern.  The simulation simplifies this aspect by assuming every agent in the susceptible state has a non-zero chance of contracting the simulated HAI.  An agent in a susceptible state is denoted in the simulation by being colored white as shown in figure 2.
 
