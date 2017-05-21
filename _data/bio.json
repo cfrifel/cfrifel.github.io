@@ -3,10 +3,10 @@
     "name": "Curtis Frifeldt",
     "label": "Student",
     "picture": "https://cfrifel.github.io/images/me.jpg",
-    "email": "cfrifel@hawaii.edu",
-    "phone": "808.453.0567",
+    "email": "cfrifeldt@gmail.com",
+    "phone": "808-453-0567",
     "website": "https://cfrifel.github.io",
-    "summary": "I am studying for a B.S. in Computer Engineering at the University of Hawaii at Manoa. I expect to graduate in May 2017.",
+    "summary": "I recently graduated from the University of Hawaii at Manoa in Computer Engineering.  I am currently in the job market for a software developer position.",
     "location": {
       "address": "95-1029 Kihene Street",
       "postalCode": "96789",
@@ -48,7 +48,7 @@
         "Bash",
         "Git/Github",
         "Eagle",
-        "Netlogo",
+        "Netlogo"
       ]
     },
     {
@@ -71,10 +71,10 @@
   "education": [
     {
       "institution": "University of Hawaii at Manoa, Honolulu, HI",
-      "area": "Computer Engineering (Expected Graduation: Spring, 2018)",
+      "area": "Computer Engineering",
       "studyType": "Undergraduate",
       "startDate": "2013",
-      "endDate": "Present",
+      "endDate": "2017",
       "gpa": "3.24",
       "courses": [
       ]
@@ -117,7 +117,7 @@
       "highlights": [
         "Design an agent-based computer simulation of disease propagation in a hospital setting",
         "Program a movement script in NetLogo to match the activities of nurses working in an Intensive Care Unit",
-        "Implement a SIR model to track the infection state of agents in the simulation",
+        "Implement a SIR model to track the infection state of agents in the simulation"
       ]
     },
      {
@@ -156,7 +156,7 @@
       "endDate": "Present",
       "summary": "",
       "highlights": [
-        "Referred at local events to ensure adequate staffing",
+        "Referred at local events to ensure adequate staffing"
       ]
     },
     {
@@ -167,7 +167,7 @@
       "endDate": "Present",
       "summary": "",
       "highlights": [
-        "Assist in planning and execution of low-scale engineering social events",
+        "Assist in planning and execution of low-scale engineering social events"
       ]
     }
   ],

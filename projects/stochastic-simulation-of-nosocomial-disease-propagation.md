@@ -116,7 +116,7 @@ The official SimTiki Trial was conducted on April 23rd and mimicked the programm
 
 The color of each data point on the graph denotes the EDOI.  There are four distinct colors used to represent the different methods a HAI can be transmitted during a contact.  For example, a blue dot represents an EDOI of 2 feet, which simulates a touch contact between two agents in the simulation.  A data point’s position along the x-axis represents the chosen POI for that Monte Carlo simulation.  For each EDOI, we simulated eight different POIs to see how varying the contagiousness of an infection would affect how many agents got infected over the 48-hour run.  A data point’s position along the y-axis represents the average number of infected agents for that Monte Carlo simulation.
 
-As shown by the trend lines, increasing the EDOI resulted in more agents becoming infected over the two-day period.   The graph also shows that by increasing the POI the infection spread more rapidly and results in an increase in the total number of infected agents.  These general behaviors follow predicted, and shows that our NetLogo model follows the general trends of how an infection outbreak should behave in a hospital setting.
+As shown by the trend lines, increasing the EDOI resulted in more agents becoming infected over the two-day period.  The graph also shows that by increasing the POI the infection spread more rapidly and results in an increase in the total number of infected agents.  These general behaviors follow predicted, and shows that our NetLogo model follows the general trends of how an infection outbreak should behave in a hospital setting.
 
 #### John A. Burn’s School of Medicine SimTiki Trial
 
