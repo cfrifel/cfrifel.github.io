@@ -103,7 +103,20 @@
         "Generate training briefing packages used to instruct ships force for upcoming procedures"
       ]
     },
-     {
+    {
+      "company": "Manoa Student Kitchen",
+      "position": "Software Engineering Final Project",
+      "website": "https://cfrifel.github.io/projects/manoa-student-kitchen",
+      "startDate": "",
+      "endDate": "2017",
+      "summary": "",
+      "highlights": [
+        "Design a web application where UH Manoa students can create and view recipes",
+        "Front end: Designed using Semantic UI libraries with HTML/CSS",
+        "Back end: Developed with Meteor which uses Mongo DB and AngularJS"
+      ]
+    },
+    {
       "company": "Disease Propagation Simulation",
       "position": "Senior Project",
       "website": "https://cfrifel.github.io/projects/stochastic-simulation-of-nosocomial-disease-propagation",
@@ -133,7 +146,7 @@
       "company": "Arduino UNO",
       "position": "Sophomore Project",
       "website": "",
-      "startDate": "2014",
+      "startDate": "",
       "endDate": "2014",
       "summary": "",
       "highlights": [
