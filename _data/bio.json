@@ -103,18 +103,6 @@
         "Generate training briefing packages used to instruct ships force for upcoming procedures"
       ]
     },
-    {
-      "company": "Stan Sheriff Center",
-      "position": "Usher and Ticket Scanner",
-      "website": "http://www.hawaiiathletics.com/sports/2008/5/14/stan_sheriff_center.aspx?tab=stansheriffcenter",
-      "startDate": "2014",
-      "endDate": "2015",
-      "summary": "",
-      "highlights": [
-        "Ensure the safety of spectators and athletes by enforcing an established code of conduct",
-        "Attend to customer complaints with friendly customer service"
-      ]
-    },
      {
       "company": "Disease Propagation Simulation",
       "position": "Senior Project",
@@ -128,7 +116,7 @@
         "Implement a SIR model to track the infection state of agents in the simulation"
       ]
     },
-     {
+    {
       "company": "MicroMouse",
       "position": "Junior Project",
       "website": "https://cfrifel.github.io/projects/micromouse",
@@ -152,6 +140,18 @@
         "Program an Arduino platform to interpret audio input with a led strip",
         "Implement serial communication to run the led strip through a limited number of ports",
         "Restrict memory consumption by using loops and functions"
+      ]
+    },
+    {
+      "company": "Stan Sheriff Center",
+      "position": "Usher and Ticket Scanner",
+      "website": "http://www.hawaiiathletics.com/sports/2008/5/14/stan_sheriff_center.aspx?tab=stansheriffcenter",
+      "startDate": "2014",
+      "endDate": "2015",
+      "summary": "",
+      "highlights": [
+        "Ensure the safety of spectators and athletes by enforcing an established code of conduct",
+        "Attend to customer complaints with friendly customer service"
       ]
     }
   ],
