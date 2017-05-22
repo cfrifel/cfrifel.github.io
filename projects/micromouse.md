@@ -16,7 +16,7 @@ summary: Build an autonomous robot to navigate a maze
 ### Overview
 Micromouse is an event in which a small autonomous robot “mouse” navigates its way through a maze.  The maze is a 16 by 16 cell grid with both a starting corner for the initial mouse position and an empty 2 by 2 space in the center of the maze.  The maze is also filled with a random distribution of horizontally and vertically placed walls that give the maze its maze-like properties.  The mice that attempt to solve the maze are completely autonomous and must find their way to the center space of the maze from the start square unaided.  Therefore, mice will need to keep track of where they are, discover and record walls as it explores, and detect when it has reached the goal.  When a shortest route has been discovered, the mouse will run that route as fast as it can.
 
-(5/21/17) still working on this project.  most of my work for this project was done on an old computer that I have not revived yet.
+(5/21/17) I'm still working on this project page.  Most of my work for this project was done on an old computer that I have not revived yet.
 
 You can learn more at the [UH Micromouse Website](http://www-ee.eng.hawaii.edu/~mmouse/about.html).
 
