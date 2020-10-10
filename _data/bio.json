@@ -7,13 +7,6 @@
     "phone": "808-453-0567",
     "website": "https://cfrifel.github.io",
     "summary": "TEST",
-    "location": {
-      "address": "95-1029 Kihene Street",
-      "postalCode": "96789",
-      "city": "Mililani",
-      "countryCode": "USA",
-      "region": "Hawaii"
-    },
     "profiles": [
       {
         "network": "github",
